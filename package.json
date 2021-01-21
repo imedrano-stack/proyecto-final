@@ -1,0 +1,24 @@
+{
+    "name": "proyecto-final",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "start": "nodemon app.js",
+      "dev": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/imedrano-stack/proyecto-final"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/imedrano-stack/proyecto-final/issues"
+    },
+    "homepage": "https://github.com/imedrano-stack/proyecto-final#readme",
+    "dependencies": {
+      "mathjs-expression-parser": "^1.0.2"
+    }
+  }
